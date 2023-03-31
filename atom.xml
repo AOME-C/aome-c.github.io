@@ -6,7 +6,7 @@
   <link href="https://aome-c.github.io/atom.xml" rel="self"/>
   
   <link href="https://aome-c.github.io/"/>
-  <updated>2023-03-31T14:19:31.353Z</updated>
+  <updated>2023-03-31T14:22:39.219Z</updated>
   <id>https://aome-c.github.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>学业</title>
     <link href="https://aome-c.github.io/2023/03/31/xue-ye/"/>
     <id>https://aome-c.github.io/2023/03/31/xue-ye/</id>
-    <published>2023-03-31T14:19:31.353Z</published>
-    <updated>2023-03-31T14:19:31.353Z</updated>
+    <published>2023-03-31T14:22:39.219Z</published>
+    <updated>2023-03-31T14:22:39.219Z</updated>
     
     
       
@@ -46,8 +46,8 @@
     <title>Hello World</title>
     <link href="https://aome-c.github.io/2023/03/31/hello-world/"/>
     <id>https://aome-c.github.io/2023/03/31/hello-world/</id>
-    <published>2023-03-31T14:19:31.353Z</published>
-    <updated>2023-03-31T14:19:31.353Z</updated>
+    <published>2023-03-31T14:22:39.219Z</published>
+    <updated>2023-03-31T14:22:39.219Z</updated>
     
     
       
@@ -71,8 +71,8 @@
     <title>搭建的第一个博客！</title>
     <link href="https://aome-c.github.io/2023/03/31/new/"/>
     <id>https://aome-c.github.io/2023/03/31/new/</id>
-    <published>2023-03-31T14:19:31.353Z</published>
-    <updated>2023-03-31T14:19:31.353Z</updated>
+    <published>2023-03-31T14:22:39.219Z</published>
+    <updated>2023-03-31T14:22:39.219Z</updated>
     
     
       
@@ -98,8 +98,8 @@
     <title>生活</title>
     <link href="https://aome-c.github.io/2023/03/31/sheng-huo/"/>
     <id>https://aome-c.github.io/2023/03/31/sheng-huo/</id>
-    <published>2023-03-31T14:19:31.353Z</published>
-    <updated>2023-03-31T14:19:31.353Z</updated>
+    <published>2023-03-31T14:22:39.219Z</published>
+    <updated>2023-03-31T14:22:39.219Z</updated>
     
     
       
@@ -126,8 +126,8 @@
     <title>网页分割</title>
     <link href="https://aome-c.github.io/2023/03/31/ji-suan-ji-1/"/>
     <id>https://aome-c.github.io/2023/03/31/ji-suan-ji-1/</id>
-    <published>2023-03-31T14:19:31.353Z</published>
-    <updated>2023-03-31T14:19:31.353Z</updated>
+    <published>2023-03-31T14:22:39.219Z</published>
+    <updated>2023-03-31T14:22:39.219Z</updated>
     
     
       
@@ -147,6 +147,28 @@
     <category term="AoMe奥美互助公社" scheme="https://aome-c.github.io/tags/AoMe%E5%A5%A5%E7%BE%8E%E4%BA%92%E5%8A%A9%E5%85%AC%E7%A4%BE/"/>
     
     <category term="MSC磁铁学生公社" scheme="https://aome-c.github.io/tags/MSC%E7%A3%81%E9%93%81%E5%AD%A6%E7%94%9F%E5%85%AC%E7%A4%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://aome-c.github.io/2023/03/31/ce-shi-tui-song/"/>
+    <id>https://aome-c.github.io/2023/03/31/ce-shi-tui-song/</id>
+    <published>2023-03-31T14:22:39.219Z</published>
+    <updated>2023-03-31T14:22:39.219Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;git测试&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
     
   </entry>
   
