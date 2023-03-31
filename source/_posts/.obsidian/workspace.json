@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "f12a10a3e7d5cdb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e40823c12007691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e865ac7022a90543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学业.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "148e7a8ec9a231cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hello-world.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44c1857ba9080bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb87c687006a6242",
+    "type": "split",
+    "children": [
+      {
+        "id": "44fe3bab84a8697b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c451621b67cbb9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "783b7403b8e1064c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55440c439367a2f0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12e50177fd561f5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "572e890a90bc5900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf0be4a40bee5020",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "生活.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c58d47af918ee0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "生活.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7496f9d638a35a49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b1f144abcde4e2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "生活.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "44c1857ba9080bc7",
+  "lastOpenFiles": [
+    "计算机-1.md",
+    "生活.md",
+    "new.md",
+    "hello-world.md",
+    "学业.md",
+    "这是我的第一个博客~.md"
+  ]
+}
