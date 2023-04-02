@@ -6,7 +6,7 @@ tags: 标签
 archives: 归档
 about: 关于
 contact: 留言板
-friends: 友情链接
+friends: 公社链接
 startRead: 开始阅读
 recommendedPosts: 推荐文章
 publishDate: 发布日期
@@ -35,9 +35,9 @@ postsNumberName: 文章篇数
 maximum: 最大值
 minimum: 最小值
 average: 平均值
-myProjects: 我的项目
-mySkills: 我的技能
-otherSkills: 其他技能
+myProjects: 公社项目
+mySkills: 公社活跃度
+otherSkills: 活跃标签
 gallery: 相册
 notag: 无标签
 from: 来源
