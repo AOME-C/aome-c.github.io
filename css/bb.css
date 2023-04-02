@@ -53,7 +53,7 @@ div.timenode .meta:before {
     background: rgba(68, 215, 182, 0.5);
     width: 16px;
     height: 16px;
-    border-radius: 4px;
+    border-radius: 8px;
 }
 
 div.timenode .meta:after {
@@ -62,7 +62,7 @@ div.timenode .meta:after {
     margin-top: 2px;
     width: 12px;
     height: 12px;
-    border-radius: 2px;
+    border-radius: 6px;
     transform: scale(0.5);
     transition: all 0.28s ease;
     -moz-transition: all 0.28s ease;
@@ -78,7 +78,7 @@ div.timenode .meta p {
 div.timenode .body {
     margin: 4px 0 16px 24px;
     padding: 16px;
-    border-radius: 4px;
+    border-radius: 8px;
     background: var(--color-block);
     display: inline-block;
 }
@@ -115,7 +115,7 @@ div.timenode:hover .meta:after {
 div.timenode .body {
     margin: 0 0 0 24px;
     padding: 16px;
-    border-radius: 4px;
+    border-radius: 8px;
     background: #f6f6f6;
     display: inline-block;
 }
