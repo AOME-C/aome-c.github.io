@@ -26,6 +26,7 @@
     <link rel="stylesheet" type="text/css" href="/libs/lightGallery/css/lightgallery.min.css">
     <link rel="stylesheet" type="text/css" href="/css/matery.css">
     <link rel="stylesheet" type="text/css" href="/css/my.css">
+	<link rel="stylesheet" type="text/css" href="/css/loading.css">
 
     <script src="/libs/jquery/jquery.min.js"></script>
 
@@ -38,6 +39,37 @@
 
 
 <body>
+    
+ <div id="loading">
+     <div class="loading-left-bg"></div>
+    <div class="loading-right-bg"></div>
+  <div class="spinner-box">
+    <div class="blue-orbit leo"></div>
+    <div class="green-orbit leo"></div>
+    <div class="red-orbit leo"></div>
+    <div class="white-orbit w1 leo"></div>
+    <div class="white-orbit w2 leo"></div>
+    <div class="white-orbit w3 leo"></div>
+  </div>
+  	<div class="text">
+	<p>加载中...<br>-欢迎访问MSC&AoMe互助联盟~</p>
+	</div>
+ </div>
+  <!-- 页面加载动画 -->
+<script>
+$(document).ready(
+function () {
+  document.body.style.overflow = 'auto';
+  document.getElementById('loading').classList.add("loaded")
+});
+$(document).ready(function(){
+function myfun() {
+document.getElementById("loading").style.display="none";
+}
+setTimeout(myfun,1000);
+});
+</script>
+
     <header class="navbar-fixed">
     <nav id="headNav" class="bg-color nav-transparent">
         <div id="navContainer" class="nav-wrapper container">
@@ -541,7 +573,7 @@
         repo: 'aome-c.github.io',
         owner: 'AoMe-C',
         admin: "AoMe-C",
-        id: '2023-04-02T23-25-00',
+        id: '2023-04-02T15-25-00',
         distractionFreeMode: false  // Facebook-like distraction free mode
     });
 
@@ -567,9 +599,61 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="far fa-dot-circle"></i>&nbsp;本篇
+                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
+            <div class="card">
+                <a href="/2023/04/03/ji-suan-ji-1/">
+                    <div class="card-image">
+                        
+                        
+                        <img src="/medias/featureimages/8.jpg" class="responsive-img" alt="网页分割">
+                        
+                        <span class="card-title">网页分割</span>
+                    </div>
+                </a>
+                <div class="card-content article-content">
+                    <div class="summary block-with-text">
+                        
+                            
+                        
+                    </div>
+                    <div class="publish-info">
+                        <span class="publish-date">
+                            <i class="far fa-clock fa-fw icon-date"></i>2023-04-03
+                        </span>
+                        <span class="publish-author">
+                            
+                            <i class="fas fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/" class="post-category">
+                                    计算机
+                                </a>
+                            
+                            
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/AoMe%E5%A5%A5%E7%BE%8E%E4%BA%92%E5%8A%A9%E5%85%AC%E7%A4%BE/">
+                        <span class="chip bg-color">AoMe奥美互助公社</span>
+                    </a>
+                    
+                    <a href="/tags/MSC%E7%A3%81%E9%93%81%E5%AD%A6%E7%94%9F%E5%85%AC%E7%A4%BE/">
+                        <span class="chip bg-color">MSC磁铁学生公社</span>
+                    </a>
+                    
+                </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="article col s12 m6" data-aos="fade-up">
+            <div class="article-badge right-badge text-color">
+                本篇&nbsp;<i class="far fa-dot-circle"></i>
             </div>
             <div class="card">
                 <a href="/2023/04/02/er-gao-fen-bu-lin-shi-hui-yi/">
@@ -608,55 +692,6 @@
                     
                     <a href="/tags/MSC%E7%A3%81%E9%93%81%E5%AD%A6%E7%94%9F%E5%85%AC%E7%A4%BE/">
                         <span class="chip bg-color">MSC磁铁学生公社</span>
-                    </a>
-                    
-                </div>
-                
-            </div>
-        </div>
-        
-        
-        <div class="article col s12 m6" data-aos="fade-up">
-            <div class="article-badge right-badge text-color">
-                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
-            </div>
-            <div class="card">
-                <a href="/2023/04/02/xue-ye/">
-                    <div class="card-image">
-                        
-                        
-                        <img src="/medias/featureimages/12.jpg" class="responsive-img" alt="学业">
-                        
-                        <span class="card-title">学业</span>
-                    </div>
-                </a>
-                <div class="card-content article-content">
-                    <div class="summary block-with-text">
-                        
-                            
-                        
-                    </div>
-                    <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2023-04-02
-                            </span>
-                        <span class="publish-author">
-                            
-                            <i class="fas fa-bookmark fa-fw icon-category"></i>
-                            
-                            <a href="/categories/%E5%AD%A6%E4%B8%9A/" class="post-category">
-                                    学业
-                                </a>
-                            
-                            
-                        </span>
-                    </div>
-                </div>
-                
-                <div class="card-action article-tags">
-                    
-                    <a href="/tags/%E5%85%88%E8%A1%8C%E7%A4%BE%E5%91%98%EF%BC%88%E4%B8%AA%E4%BD%93%EF%BC%89/">
-                        <span class="chip bg-color">先行社员（个体）</span>
                     </a>
                     
                 </div>

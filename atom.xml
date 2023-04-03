@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>M&amp;A互助联盟</title>
   
-  <subtitle>AoMe&amp;MSC互助联盟</subtitle>
+  <subtitle>MSC&amp;AoMe互助联盟</subtitle>
   <link href="https://aome-c.github.io/atom.xml" rel="self"/>
   
   <link href="https://aome-c.github.io/"/>
-  <updated>2023-04-02T15:53:14.526Z</updated>
+  <updated>2023-04-03T06:42:14.540Z</updated>
   <id>https://aome-c.github.io/</id>
   
   <author>
@@ -17,36 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>磁铁学生公社二高分部临时会议圆满结束！</title>
-    <link href="https://aome-c.github.io/2023/04/02/er-gao-fen-bu-lin-shi-hui-yi/"/>
-    <id>https://aome-c.github.io/2023/04/02/er-gao-fen-bu-lin-shi-hui-yi/</id>
-    <published>2023-04-02T23:25:00.000Z</published>
-    <updated>2023-04-02T15:53:14.526Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;磁铁学生公社二高分部临时会议圆满结束！&lt;br&gt;&lt;img src=&quot;/medias/MSC.svg&quot; width=&quot;50%&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="公社事务" scheme="https://aome-c.github.io/categories/%E5%85%AC%E7%A4%BE%E4%BA%8B%E5%8A%A1/"/>
-    
-    
-    <category term="MSC磁铁学生公社" scheme="https://aome-c.github.io/tags/MSC%E7%A3%81%E9%93%81%E5%AD%A6%E7%94%9F%E5%85%AC%E7%A4%BE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>学业</title>
-    <link href="https://aome-c.github.io/2023/04/02/xue-ye/"/>
-    <id>https://aome-c.github.io/2023/04/02/xue-ye/</id>
-    <published>2023-04-02T15:53:14.526Z</published>
-    <updated>2023-04-02T15:53:14.526Z</updated>
+    <link href="https://aome-c.github.io/2023/04/03/xue-ye/"/>
+    <id>https://aome-c.github.io/2023/04/03/xue-ye/</id>
+    <published>2023-04-03T06:42:14.540Z</published>
+    <updated>2023-04-03T06:42:14.540Z</updated>
     
     
       
@@ -69,10 +44,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://aome-c.github.io/2023/04/02/hello-world/"/>
-    <id>https://aome-c.github.io/2023/04/02/hello-world/</id>
-    <published>2023-04-02T15:53:14.526Z</published>
-    <updated>2023-04-02T15:53:14.526Z</updated>
+    <link href="https://aome-c.github.io/2023/04/03/hello-world/"/>
+    <id>https://aome-c.github.io/2023/04/03/hello-world/</id>
+    <published>2023-04-03T06:42:14.540Z</published>
+    <updated>2023-04-03T06:42:14.540Z</updated>
     
     
       
@@ -94,10 +69,10 @@
   
   <entry>
     <title>搭建的第一个博客！</title>
-    <link href="https://aome-c.github.io/2023/04/02/new/"/>
-    <id>https://aome-c.github.io/2023/04/02/new/</id>
-    <published>2023-04-02T15:53:14.526Z</published>
-    <updated>2023-04-02T15:53:14.526Z</updated>
+    <link href="https://aome-c.github.io/2023/04/03/new/"/>
+    <id>https://aome-c.github.io/2023/04/03/new/</id>
+    <published>2023-04-03T06:42:14.540Z</published>
+    <updated>2023-04-03T06:42:14.540Z</updated>
     
     
       
@@ -121,10 +96,10 @@
   
   <entry>
     <title>生活</title>
-    <link href="https://aome-c.github.io/2023/04/02/sheng-huo/"/>
-    <id>https://aome-c.github.io/2023/04/02/sheng-huo/</id>
-    <published>2023-04-02T15:53:14.526Z</published>
-    <updated>2023-04-02T15:53:14.526Z</updated>
+    <link href="https://aome-c.github.io/2023/04/03/sheng-huo/"/>
+    <id>https://aome-c.github.io/2023/04/03/sheng-huo/</id>
+    <published>2023-04-03T06:42:14.540Z</published>
+    <updated>2023-04-03T06:42:14.540Z</updated>
     
     
       
@@ -149,10 +124,10 @@
   
   <entry>
     <title>网页分割</title>
-    <link href="https://aome-c.github.io/2023/04/02/ji-suan-ji-1/"/>
-    <id>https://aome-c.github.io/2023/04/02/ji-suan-ji-1/</id>
-    <published>2023-04-02T15:53:14.526Z</published>
-    <updated>2023-04-02T15:53:14.526Z</updated>
+    <link href="https://aome-c.github.io/2023/04/03/ji-suan-ji-1/"/>
+    <id>https://aome-c.github.io/2023/04/03/ji-suan-ji-1/</id>
+    <published>2023-04-03T06:42:14.540Z</published>
+    <updated>2023-04-03T06:42:14.540Z</updated>
     
     
       
@@ -170,6 +145,31 @@
     
     
     <category term="AoMe奥美互助公社" scheme="https://aome-c.github.io/tags/AoMe%E5%A5%A5%E7%BE%8E%E4%BA%92%E5%8A%A9%E5%85%AC%E7%A4%BE/"/>
+    
+    <category term="MSC磁铁学生公社" scheme="https://aome-c.github.io/tags/MSC%E7%A3%81%E9%93%81%E5%AD%A6%E7%94%9F%E5%85%AC%E7%A4%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>磁铁学生公社二高分部临时会议圆满结束！</title>
+    <link href="https://aome-c.github.io/2023/04/02/er-gao-fen-bu-lin-shi-hui-yi/"/>
+    <id>https://aome-c.github.io/2023/04/02/er-gao-fen-bu-lin-shi-hui-yi/</id>
+    <published>2023-04-02T15:25:00.000Z</published>
+    <updated>2023-04-02T15:51:39.775Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;磁铁学生公社二高分部临时会议圆满结束！&lt;br&gt;&lt;img src=&quot;/medias/MSC.svg&quot; width=&quot;50%&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="公社事务" scheme="https://aome-c.github.io/categories/%E5%85%AC%E7%A4%BE%E4%BA%8B%E5%8A%A1/"/>
+    
     
     <category term="MSC磁铁学生公社" scheme="https://aome-c.github.io/tags/MSC%E7%A3%81%E9%93%81%E5%AD%A6%E7%94%9F%E5%85%AC%E7%A4%BE/"/>
     

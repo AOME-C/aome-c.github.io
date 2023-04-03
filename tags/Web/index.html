@@ -26,6 +26,7 @@
     <link rel="stylesheet" type="text/css" href="/libs/lightGallery/css/lightgallery.min.css">
     <link rel="stylesheet" type="text/css" href="/css/matery.css">
     <link rel="stylesheet" type="text/css" href="/css/my.css">
+	<link rel="stylesheet" type="text/css" href="/css/loading.css">
 
     <script src="/libs/jquery/jquery.min.js"></script>
 
@@ -38,6 +39,37 @@
 
 
 <body>
+    
+ <div id="loading">
+     <div class="loading-left-bg"></div>
+    <div class="loading-right-bg"></div>
+  <div class="spinner-box">
+    <div class="blue-orbit leo"></div>
+    <div class="green-orbit leo"></div>
+    <div class="red-orbit leo"></div>
+    <div class="white-orbit w1 leo"></div>
+    <div class="white-orbit w2 leo"></div>
+    <div class="white-orbit w3 leo"></div>
+  </div>
+  	<div class="text">
+	<p>加载中...<br>-欢迎访问MSC&AoMe互助联盟~</p>
+	</div>
+ </div>
+  <!-- 页面加载动画 -->
+<script>
+$(document).ready(
+function () {
+  document.body.style.overflow = 'auto';
+  document.getElementById('loading').classList.add("loaded")
+});
+$(document).ready(function(){
+function myfun() {
+document.getElementById("loading").style.display="none";
+}
+setTimeout(myfun,1000);
+});
+</script>
+
     <header class="navbar-fixed">
     <nav id="headNav" class="bg-color nav-transparent">
         <div id="navContainer" class="nav-wrapper container">
@@ -260,7 +292,7 @@
         <div class="brand">
             <div class="title center-align">
                 
-                AoMe&amp;MSC互助联盟
+                MSC&amp;AoMe互助联盟
                 
             </div>
 
@@ -365,7 +397,7 @@
             
             <div class="article tag-post col s12 m6 l4" data-tags="Web" data-aos="fade-up">
                 <div class="card">
-                    <a href="/2023/04/02/hello-world/">
+                    <a href="/2023/04/03/hello-world/">
                         <div class="card-image tag-image">
                             
                             
@@ -377,7 +409,7 @@
                     <div class="card-content article-content">
                         <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2023-04-02
+                                <i class="far fa-clock fa-fw icon-date"></i>2023-04-03
                             </span>
                             <span class="publish-author">
                                 

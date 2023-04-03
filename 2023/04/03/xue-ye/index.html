@@ -26,6 +26,7 @@
     <link rel="stylesheet" type="text/css" href="/libs/lightGallery/css/lightgallery.min.css">
     <link rel="stylesheet" type="text/css" href="/css/matery.css">
     <link rel="stylesheet" type="text/css" href="/css/my.css">
+	<link rel="stylesheet" type="text/css" href="/css/loading.css">
 
     <script src="/libs/jquery/jquery.min.js"></script>
 
@@ -38,6 +39,37 @@
 
 
 <body>
+    
+ <div id="loading">
+     <div class="loading-left-bg"></div>
+    <div class="loading-right-bg"></div>
+  <div class="spinner-box">
+    <div class="blue-orbit leo"></div>
+    <div class="green-orbit leo"></div>
+    <div class="red-orbit leo"></div>
+    <div class="white-orbit w1 leo"></div>
+    <div class="white-orbit w2 leo"></div>
+    <div class="white-orbit w3 leo"></div>
+  </div>
+  	<div class="text">
+	<p>加载中...<br>-欢迎访问MSC&AoMe互助联盟~</p>
+	</div>
+ </div>
+  <!-- 页面加载动画 -->
+<script>
+$(document).ready(
+function () {
+  document.body.style.overflow = 'auto';
+  document.getElementById('loading').classList.add("loaded")
+});
+$(document).ready(function(){
+function myfun() {
+document.getElementById("loading").style.display="none";
+}
+setTimeout(myfun,1000);
+});
+</script>
+
     <header class="navbar-fixed">
     <nav id="headNav" class="bg-color nav-transparent">
         <div id="navContainer" class="nav-wrapper container">
@@ -403,14 +435,14 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2023-04-02
+                    2023-04-03
                 </div>
                 
 
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2023-04-02
+                    2023-04-03
                 </div>
                 
 
@@ -456,7 +488,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://aome-c.github.io/2023/04/02/xue-ye/">https://aome-c.github.io/2023/04/02/xue-ye/</a>
+                    <a href="https://aome-c.github.io/2023/04/03/xue-ye/">https://aome-c.github.io/2023/04/03/xue-ye/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -540,7 +572,7 @@
         repo: 'aome-c.github.io',
         owner: 'AoMe-C',
         admin: "AoMe-C",
-        id: '2023-04-02T15-53-14',
+        id: '2023-04-03T06-42-14',
         distractionFreeMode: false  // Facebook-like distraction free mode
     });
 
@@ -566,16 +598,18 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
+                <i class="far fa-dot-circle"></i>&nbsp;本篇
+            </div>
             <div class="card">
-                <a href="/2023/04/02/er-gao-fen-bu-lin-shi-hui-yi/">
+                <a href="/2023/04/03/xue-ye/">
                     <div class="card-image">
                         
-                        <img src="/medias/MSC.svg" class="responsive-img" alt="磁铁学生公社二高分部临时会议圆满结束！">
                         
-                        <span class="card-title">磁铁学生公社二高分部临时会议圆满结束！</span>
+                        <img src="/medias/featureimages/12.jpg" class="responsive-img" alt="学业">
+                        
+                        <span class="card-title">学业</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -585,26 +619,27 @@
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2023-04-02
-                        </span>
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2023-04-03
+                            </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/%E5%85%AC%E7%A4%BE%E4%BA%8B%E5%8A%A1/" class="post-category">
-                                    公社事务
+                            <a href="/categories/%E5%AD%A6%E4%B8%9A/" class="post-category">
+                                    学业
                                 </a>
                             
                             
                         </span>
                     </div>
                 </div>
+
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/MSC%E7%A3%81%E9%93%81%E5%AD%A6%E7%94%9F%E5%85%AC%E7%A4%BE/">
-                        <span class="chip bg-color">MSC磁铁学生公社</span>
+                    <a href="/tags/%E5%85%88%E8%A1%8C%E7%A4%BE%E5%91%98%EF%BC%88%E4%B8%AA%E4%BD%93%EF%BC%89/">
+                        <span class="chip bg-color">先行社员（个体）</span>
                     </a>
                     
                 </div>
@@ -618,7 +653,7 @@
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2023/04/02/hello-world/">
+                <a href="/2023/04/03/hello-world/">
                     <div class="card-image">
                         
                         
@@ -635,7 +670,7 @@
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2023-04-02
+                                <i class="far fa-clock fa-fw icon-date"></i>2023-04-03
                             </span>
                         <span class="publish-author">
                             
