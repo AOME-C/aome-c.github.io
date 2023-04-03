@@ -4,75 +4,23 @@
   
     
     <entry>
-      <title>学业</title>
-      <link href="/2023/04/03/xue-ye/"/>
-      <url>/2023/04/03/xue-ye/</url>
+      <title>磁铁学生公社二高分部临时会议圆满结束！</title>
+      <link href="/2023/04/02/er-gao-fen-bu-lin-shi-hui-yi/"/>
+      <url>/2023/04/02/er-gao-fen-bu-lin-shi-hui-yi/</url>
       
-        <content type="html"><![CDATA[<p>这是一个测试</p>]]></content>
+        <content type="html"><![CDATA[<p>磁铁学生公社二高分部临时会议圆满结束！<br><img src="/medias/MSC.svg" width="50%" height="50%"><br>本次会议的议题为：<br>1、公社社歌<br>2、如何更好的宣传和建设公社<br>3、关于公社的资金收入问题<br>4、关于学业革命的问题<br>5、关于对外政策的问题</p><p>经过讨论<br>我们得出了以下结论<br>1、公社社歌由进行接龙投票决定<br>2、关于如何更好的宣传和建设公社<br>  -完善公社内部各项规定<br>  -整顿内部风气<br>  -自由、平等、互助、博爱、团结。<br>  -撰写文章宣传，磁铁开发部当前任务为文案制作<br>3、关于磁铁公社的资金收入问题，进行公社活动前进行临时筹资。周同志对于这个问题的看法为：“收入为外来收入再好不过了，形式可以是资金，也可以是物质。”<br>4、学业革命将继续开展<br>5、关于公社对外政策<br>  -外部人员加入磁铁公社需审核<br>  -内部人员邀请加入磁铁公社不需审核。</p>]]></content>
       
       
       <categories>
           
-          <category> 学业 </category>
+          <category> 公社事务 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 先行社员（个体） </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/04/03/hello-world/"/>
-      <url>/2023/04/03/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 计算机 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Web </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>搭建的第一个博客！</title>
-      <link href="/2023/04/03/new/"/>
-      <url>/2023/04/03/new/</url>
-      
-        <content type="html"><![CDATA[<h2 id="这是我的第一个博客"><a href="#这是我的第一个博客" class="headerlink" title="这是我的第一个博客~"></a>这是我的第一个博客~</h2><p>有生之年，我终于成功构建了第一个博客，我终于拥有第一个博客了~虽然是静态博客，但对于我也够用了（过于超前的进程）<br>身为一个高中生，我能空闲时间写博客的情况少之又少，因此，如果看见我空闲在聊天请提醒我更视频写博客（bushi</p><h3 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h3><p>我的网站有很多问题，比如说指向第三方链接，指向不存在的链接，一些功能徒有虚表，比如说搜索功能，都是问题，还有一堆bug要修。<br>不管这些好不好弄，对于我来说，只要有一份教程和说明文档就够了<br>（默默的打开了有道翻译机，为什么官方文档都是英文和俄文啊啊啊啊）<br>不过无伤大雅，不管如何困难，也能被我的极客精神和翻译机大法克服的~</p><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><p>这个Blog计划是分成三个分区：生活；学业；计算机</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 计算机 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 先行社员（个体） </tag>
-            
-            <tag> 感言 </tag>
+            <tag> MSC磁铁学生公社 </tag>
             
         </tags>
       
@@ -82,8 +30,8 @@
     
     <entry>
       <title>生活</title>
-      <link href="/2023/04/03/sheng-huo/"/>
-      <url>/2023/04/03/sheng-huo/</url>
+      <link href="/2023/03/30/sheng-huo/"/>
+      <url>/2023/03/30/sheng-huo/</url>
       
         <content type="html"><![CDATA[<p>这是一个测试</p>]]></content>
       
@@ -109,8 +57,8 @@
     
     <entry>
       <title>网页分割</title>
-      <link href="/2023/04/03/ji-suan-ji-1/"/>
-      <url>/2023/04/03/ji-suan-ji-1/</url>
+      <link href="/2023/03/28/ji-suan-ji-1/"/>
+      <url>/2023/03/28/ji-suan-ji-1/</url>
       
         <content type="html"><![CDATA[<p>进行了网页分割，搭建了博客<br>测试Blog</p>]]></content>
       
@@ -135,23 +83,75 @@
     
     
     <entry>
-      <title>磁铁学生公社二高分部临时会议圆满结束！</title>
-      <link href="/2023/04/02/er-gao-fen-bu-lin-shi-hui-yi/"/>
-      <url>/2023/04/02/er-gao-fen-bu-lin-shi-hui-yi/</url>
+      <title>学业</title>
+      <link href="/2023/03/27/xue-ye/"/>
+      <url>/2023/03/27/xue-ye/</url>
       
-        <content type="html"><![CDATA[<p>磁铁学生公社二高分部临时会议圆满结束！<br><img src="/medias/MSC.svg" width="50%" height="50%"><br>本次会议的议题为：<br>1、公社社歌<br>2、如何更好的宣传和建设公社<br>3、关于公社的资金收入问题<br>4、关于学业革命的问题<br>5、关于对外政策的问题</p><p>经过讨论<br>我们得出了以下结论<br>1、公社社歌由进行接龙投票决定<br>2、关于如何更好的宣传和建设公社<br>  -完善公社内部各项规定<br>  -整顿内部风气<br>  -自由、平等、互助、博爱、团结。<br>  -撰写文章宣传，磁铁开发部当前任务为文案制作<br>3、关于磁铁公社的资金收入问题，进行公社活动前进行临时筹资。周同志对于这个问题的看法为：“收入为外来收入再好不过了，形式可以是资金，也可以是物质。”<br>4、学业革命将继续开展<br>5、关于公社对外政策<br>  -外部人员加入磁铁公社需审核<br>  -内部人员邀请加入磁铁公社不需审核。</p>]]></content>
+        <content type="html"><![CDATA[<p>这是一个测试</p>]]></content>
       
       
       <categories>
           
-          <category> 公社事务 </category>
+          <category> 学业 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> MSC磁铁学生公社 </tag>
+            <tag> 先行社员（个体） </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>搭建的第一个博客！</title>
+      <link href="/2023/03/26/new/"/>
+      <url>/2023/03/26/new/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我的第一个博客"><a href="#这是我的第一个博客" class="headerlink" title="这是我的第一个博客~"></a>这是我的第一个博客~</h2><p>有生之年，我终于成功构建了第一个博客，我终于拥有第一个博客了~虽然是静态博客，但对于我也够用了（过于超前的进程）<br>身为一个高中生，我能空闲时间写博客的情况少之又少，因此，如果看见我空闲在聊天请提醒我更视频写博客（bushi</p><h3 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h3><p>我的网站有很多问题，比如说指向第三方链接，指向不存在的链接，一些功能徒有虚表，比如说搜索功能，都是问题，还有一堆bug要修。<br>不管这些好不好弄，对于我来说，只要有一份教程和说明文档就够了<br>（默默的打开了有道翻译机，为什么官方文档都是英文和俄文啊啊啊啊）<br>不过无伤大雅，不管如何困难，也能被我的极客精神和翻译机大法克服的~</p><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><p>这个Blog计划是分成三个分区：生活；学业；计算机</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 先行社员（个体） </tag>
+            
+            <tag> 感言 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/03/25/hello-world/"/>
+      <url>/2023/03/25/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Web </tag>
             
         </tags>
       
