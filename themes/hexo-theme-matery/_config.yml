@@ -619,3 +619,8 @@ bbtime:
  appId: # 你的appId
  appKey: # 你的appKey
  serverURLs: # https://你的api
+
+# 是否开启页面加载动画
+preloader:
+  enable: true
+  
