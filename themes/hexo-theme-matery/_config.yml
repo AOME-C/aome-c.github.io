@@ -271,7 +271,7 @@ postCalendar: true
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
-  enable: true
+  enable: false
   owner: AoMe-C
   repo: aome-c.github.io
   oauth:
@@ -305,7 +305,7 @@ livere:
 # To use it, activate the configuration item and set appId and appKey.
 # Valine 评论模块的配置，默认为不激活，如要使用，就请激活该配置项，并设置 appId 和 appKey.
 valine:
-  enable: false
+  enable: true
   appId:
   appKey:
   notify: false
@@ -623,4 +623,3 @@ bbtime:
 # 是否开启页面加载动画
 preloader:
   enable: true
-  

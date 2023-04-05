@@ -243,19 +243,10 @@
     </div>
 </div>
 
-<script src="<%- theme.jsDelivr.url %><%- url_for('/libs/valine/av-min.js') %>"></script>
-<script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.valine) %>"></script>
+<script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
 <script>
-    new Valine({
+Waline({
         el: '#vcomments',
-        appId: '<%- theme.valine.appId %>',
-        appKey: '<%- theme.valine.appKey %>',
-        notify: '<%- theme.valine.notify %>' === 'true',
-        verify: '<%- theme.valine.verify %>' === 'true',
-        visitor: '<%- theme.valine.visitor %>' === 'true',
-        avatar: '<%- theme.valine.avatar %>',
-        pageSize: '<%- theme.valine.pageSize %>',
-        lang: '<% if (config.language == "zh-CN") {  %>zh-cn<% } else { %>en<% } %>',
-        placeholder: '<%= theme.valine.placeholder %>'
+		serverURL: 'http://aome-ctxd.hec.to:5000/'
     });
 </script>
