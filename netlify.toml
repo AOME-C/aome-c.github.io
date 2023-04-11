@@ -1,7 +1,0 @@
-[[redirects]]
-  from = "/libs/awesome/"
-  to = "https://aome-c.github.io"
-  status = 200
-  force = true
-  headers = {X-From = "Netlify"}
-  
