@@ -413,7 +413,7 @@ libs:
     matery: https://msc-a.netlify.app/css/matery.css
     mycss: https://msc-a.netlify.app/css/my.css
     fontAwesome: https://cdn.bootcdn.net/ajax/libs/font-awesome/6.4.0/css/all.min.css # V5.11.1
-    materialize: https://cdn.bootcdn.net/ajax/libs/materialize/1.0.0/css/materialize.min.css # 1.0.0
+    materialize: https://msc-a.netlify.app/libs/materialize/materialize.min.css # 1.0.0
     aos: https://cdn.bootcdn.net/ajax/libs/aos/2.3.4/aos.css
     animate: https://cdn.bootcdn.net/ajax/libs/animate.css/4.1.1/animate.min.css # V3.5.1
     lightgallery: https://cdn.bootcdn.net/ajax/libs/lightgallery/2.7.1/css/lightgallery.min.css # V1.6.11
