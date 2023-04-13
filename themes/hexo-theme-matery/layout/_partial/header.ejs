@@ -4,9 +4,10 @@
             <div class="brand-logo">
                 <a href="<%- url_for() %>" class="waves-effect waves-light">
                     <% if (theme.logo !== undefined && theme.logo.length > 0) { %>
+					<span style="white-space: nowrap;color: red" class="logo-span">MSC</span>
                     <img src="<%- theme.jsDelivr.url %><%- url_for(theme.logo) %>" class="logo-img" alt="LOGO">
                     <% } %>
-                    <span class="logo-span"><%= config.title %></span>
+                    <span style="white-space: nowrap;color: #0099cc" class="logo-span">AoMe</span>
                 </a>
             </div>
             <%- partial('_partial/navigation') %>
