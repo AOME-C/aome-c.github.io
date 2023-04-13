@@ -415,7 +415,7 @@ libs:
     fontAwesome: https://cdn.bootcdn.net/ajax/libs/font-awesome/6.4.0/css/all.min.css # V5.11.1
     materialize: https://msc-a.netlify.app/libs/materialize/materialize.min.css # 1.0.0
     aos: https://cdn.bootcdn.net/ajax/libs/aos/2.3.4/aos.css
-    animate: https://cdn.bootcdn.net/ajax/libs/animate.css/4.1.1/animate.min.css # V3.5.1
+    animate: https://cdn.bootcdn.net/ajax/libs/animate.css/4.1.1/animate.compat.min.css
     lightgallery: https://cdn.bootcdn.net/ajax/libs/lightgallery/2.7.1/css/lightgallery.min.css # V1.6.11
     aplayer: https://cdn.bootcdn.net/ajax/libs/aplayer/1.10.1/APlayer.min.css
     dplayer: https://msc-a.netlify.app/libs/dplayer/DPlayer.min.css
@@ -442,7 +442,7 @@ libs:
     minivaline: https://msc-a.netlify.app/libs/minivaline/MiniValine.js
     jqcloud: https://cdn.bootcdn.net/ajax/libs/jqcloud/1.0.3/jqcloud.min.js
     tocbot: https://cdn.bootcdn.net/ajax/libs/tocbot/4.21.0/tocbot.min.js
-    canvas_nest: https://msc-a.netlify.app/libs/background/canvas-nest.js
+    canvas_nest: https://cdn.bootcdn.net/ajax/libs/canvas-nest.js/2.0.4/canvas-nest.js
     ribbon: https://cdn.bootcdn.net/ajax/libs/ribbon.js/1.0.2/ribbon.min.js
     ribbonRefresh: https://msc-a.netlify.app/libs/background/ribbon-refresh.min.js
     ribbon_dynamic: https://msc-a.netlify.app/libs/background/ribbon-dynamic.js
