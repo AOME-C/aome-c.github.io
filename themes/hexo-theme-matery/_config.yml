@@ -81,10 +81,10 @@ music:
   type: playlist    #require song, playlist, album, search, artist
   id: 8276575396     #require	song id / playlist id / album id / search keyword
   fixed: true      # 开启吸底模式
-  autoplay: true   # 是否自动播放
+  autoplay: false   # 是否自动播放
   theme: '#42b983'
   loop: 'all'       # 音频循环播放, 可选值: 'all', 'one', 'none'
-  order: 'random'   # 音频循环顺序, 可选值: 'list', 'random'
+  order: 'list'   # 音频循环顺序, 可选值: 'list', 'random'
   preload: 'auto'   # 预加载，可选值: 'none', 'metadata', 'auto'
   volume: 0.5       # 默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效
   listFolded: true  # 列表默认折叠
@@ -520,7 +520,7 @@ canvas_nest:
   pointColor: 0,0,255 # 交点颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
   opacity: 0.7 # 线条透明度（0~1）, 默认: 0.5
   zIndex: -1 # 背景的 z-index 属性，css 属性用于控制所在层的位置, 默认: -1.
-  count: 99 # 线条的总数量, 默认: 99
+  count: 50 # 线条的总数量, 默认: 99
 
 # 背景静止彩带.
 ribbon:
@@ -593,8 +593,7 @@ jsDelivr:
   
 # 网站背景图
 background:
-  enable: false
-  url: "https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/medias/background.jpg"
+  enable: true
 
 # 说说 https://artitalk.js.org/
 artitalk:
