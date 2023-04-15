@@ -10,6 +10,15 @@ menu:
   Categories:
     url: /categories
     icon: fas fa-bookmark
+    children:
+      - name: 公社事务
+        url: /categories/公社事务
+      - name: 计算姬
+        url: /categories/计算机
+      - name: 学业
+        url: /categories/学业
+      - name: 生活
+        url: /categories/生活
   Archives:
     url: /archives
     icon: fas fa-archive
@@ -22,6 +31,11 @@ menu:
   Friends:
     url: /friends
     icon: fas fa-address-book
+    children:
+      - name: MSC磁铁学生公社
+        url: https://mscmdd.github.io/www/
+      - name: AoMe互助公社
+        url: https://aome-c.github.io/www/
   # 二级菜单写法如下
   #Medias:
   #  icon: fas fa-list
@@ -237,7 +251,7 @@ mySkills:
   data:
     活跃人数:
       background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
-      percent: 62%
+      percent: 42%
     参与人数:
       background: 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)'
       percent: 40%
@@ -275,8 +289,8 @@ gitalk:
   owner: AoMe-C
   repo: aome-c.github.io
   oauth:
-    clientId: de1a7a94e2bde004feb7
-    clientSecret: ab90e503ea255870074011a6545f1f0484bf158e
+    clientId: 
+    clientSecret: 
   admin: AoMe-C
 
 # the Gitment config，default disabled
