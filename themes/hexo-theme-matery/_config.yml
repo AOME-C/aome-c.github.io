@@ -462,13 +462,13 @@ baiduPush: true
 # 注：jsdelivr可以自动帮你生成.min版的js和css，所以你在设置js及css路径中可以直接写.min.xxx
 libs:
   css:
-    matery: /css/matery.css
-    mycss: /css/my.css
-    post: /css/post.css
-    reward: /css/reward.css
-    dark: /css/dark.css
-    indexcover: /css/indexcover.css
-    gallery: /css/gallery.css
+    matery: https://msc-a.netlify.app/css/matery.css
+    mycss: https://msc-a.netlify.app/css/my.css
+    post: https://msc-a.netlify.app/css/post.css
+    reward: https://msc-a.netlify.app/css/reward.css
+    dark: https://msc-a.netlify.app/css/dark.css
+    indexcover: https://msc-a.netlify.app/css/indexcover.css
+    gallery: https://msc-a.netlify.app/css/gallery.css
     fontAwesome: https://cdn.bootcdn.net/ajax/libs/font-awesome/6.4.0/css/all.min.css # V6.1.2 20220809
     materialize: https://cdn.bootcdn.net/ajax/libs/materialize/1.0.0/css/materialize.min.css # 1.0.0 20211109
     aos: https://cdn.bootcdn.net/ajax/libs/aos/2.3.4/aos.css
@@ -484,46 +484,46 @@ libs:
     fancybox: https://cdn.bootcdn.net/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css
     justifiedGallery: https://cdn.bootcdn.net/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.min.css
   js:
-    matery: /js/matery.js
-    sc2tc: /js/tw_cn.js
-    jquery: /libs/jquery/jquery-3.6.0.min.js  #3.6.0 20211109
-    materialize: /libs/materialize/materialize.min.js # 1.0.0
-    masonry: /libs/masonry/masonry.pkgd.min.js # v4.0.0
-    aos: /libs/aos/aos.js
-    scrollProgress: /libs/scrollprogress/scrollProgress.min.js
-    lightgallery: /libs/lightGallery/js/lightgallery-all.min.js # V1.10.0
-    typed: /libs/typed/typed.js
-    clicklove: /libs/others/clicklove.js
-    sakura: /libs/others/sakura.js
-    star: /libs/others/star.js
+    matery: https://msc-a.netlify.app/js/matery.js
+    sc2tc: https://msc-a.netlify.app/js/tw_cn.js
+    jquery: https://cdn.bootcdn.net/ajax/libs/jquery/3.6.4/jquery.min.js  #3.6.0 20211109
+    materialize: https://cdn.bootcdn.net/ajax/libs/materialize/1.0.0/js/materialize.min.js # 1.0.0
+    masonry: https://cdn.bootcdn.net/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js # v4.0.0
+    aos: https://cdn.bootcdn.net/ajax/libs/aos/2.3.4/aos.js
+    scrollProgress: https://cdn.bootcdn.net/ajax/libs/scrollprogress/3.0.2/scrollProgress.min.js
+    lightgallery: https://msc-a.netlify.app/libs/lightGallery/js/lightgallery-all.min.js # V1.10.0
+    typed: https://msc-a.netlify.app/libs/typed/typed.js
+    clicklove: https://msc-a.netlify.app/libs/others/clicklove.js
+    sakura: https://msc-a.netlify.app/libs/others/sakura.js
+    star: https://msc-a.netlify.app/libs/others/star.js
     snow: /libs/others/snow.js
-    tcaptcha: /libs/others/TencentCaptcha.js
-    busuanzi: /libs/others/busuanzi.pure.mini.js
-    aplayer: /libs/aplayer/APlayer.min.js
-    meting: /libs/aplayer/Meting.min.js
-    dplayer: /libs/dplayer/DPlayer.min.js
-    crypto: /libs/cryptojs/crypto-js.min.js
-    echarts: /libs/echarts/echarts.min.js
-    gitalk: /libs/gitalk/gitalk.min.js
-    valine: /libs/valine/Valine.min.js # 若想保持最新版，请替换为 https://unpkg.com/valine/dist/Valine.min.js  默认为 /libs/valine/Valine.min.js
-    minivaline: /libs/minivaline/MiniValine.js # latest
+    tcaptcha: https://msc-a.netlify.app/libs/others/TencentCaptcha.js
+    busuanzi: https://cdn.bootcdn.net/ajax/libs/busuanzi/2.3.0/bsz.pure.mini.min.js
+    aplayer: https://cdn.bootcdn.net/ajax/libs/aplayer/1.10.1/APlayer.min.js
+    meting: https://cdn.bootcdn.net/ajax/libs/meting/2.0.1/Meting.min.js
+    dplayer: https://cdn.bootcdn.net/ajax/libs/dplayer/1.27.1/DPlayer.min.js
+    crypto: https://cdn.bootcdn.net/ajax/libs/crypto-js/4.1.1/crypto-js.min.js
+    echarts: https://cdn.bootcdn.net/ajax/libs/echarts/5.4.2/echarts.min.js
+    gitalk: https://cdn.bootcdn.net/ajax/libs/gitalk/1.8.0/gitalk.min.js
+    valine: https://unpkg.com/valine/dist/Valine.min.js # 若想保持最新版，请替换为 https://unpkg.com/valine/dist/Valine.min.js  默认为 /libs/valine/Valine.min.js
+    minivaline: https://msc-a.netlify.app/libs/minivaline/MiniValine.js # latest
     waline: https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js # 若想保持最新版，请替换为 https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js 默认为(1.5.2版本) /libs/valine/Valine.min.js
-    twikoo: /libs/twikoo/twikoo.all.min.js # 若想保持最新版，请替换为 https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js  默认为 /libs/twikoo/twikoo.all.min.js
-    jqcloud: /libs/jqcloud/jqcloud-1.0.4.min.js
-    tocbot: /libs/tocbot/tocbot.min.js
-    canvas_nest: /libs/background/canvas-nest.js
+    twikoo: https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js # 若想保持最新版，请替换为 https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js  默认为 /libs/twikoo/twikoo.all.min.js
+    jqcloud: https://cdn.bootcdn.net/ajax/libs/jqcloud/1.0.3/jqcloud.min.js
+    tocbot: https://cdn.bootcdn.net/ajax/libs/tocbot/4.21.0/tocbot.min.js
+    canvas_nest: https://msc-a.netlify.app/libs/background/canvas-nest.js
     ribbon: https://cdn.bootcdn.net/ajax/libs/ribbon.js/1.0.2/ribbon.min.js
-    ribbonRefresh: /libs/background/ribbon-refresh.min.js
-    ribbon_dynamic: /libs/background/ribbon-dynamic.js
+    ribbonRefresh: https://msc-a.netlify.app/libs/background/ribbon-refresh.min.js
+    ribbon_dynamic: https://msc-a.netlify.app/libs/background/ribbon-dynamic.js
     instantpage: https://cdn.bootcss.com/instant.page/3.0.0/instantpage.js
-    mermaid: /libs/mermaid/mermaid.min.js
-    fancybox: /libs/fancybox/fancybox.js
-    justifiedGallery: /libs/justifiedGallery/justifiedGallery.min.js
-    prism: /libs/prism/prism.min.js
-    codeblock: /libs/codeBlock/codeBlockFuction.js
-    codelang: /libs/codeBlock/codeLang.js
-    codecopy: /libs/codeBlock/codeCopy.js
-    codeshrink: /libs/codeBlock/codeShrink.js
+    mermaid: https://msc-a.netlify.app/libs/mermaid/mermaid.min.js
+    fancybox: https://msc-a.netlify.app/libs/fancybox/fancybox.js
+    justifiedGallery: https://cdn.bootcdn.net/ajax/libs/justifiedGallery/3.8.1/js/jquery.justifiedGallery.min.js
+    prism: https://cdn.bootcdn.net/ajax/libs/prism/9000.0.1/prism.min.js
+    codeblock: https://msc-a.netlify.app/libs/codeBlock/codeBlockFuction.js
+    codelang: https://msc-a.netlify.app/libs/codeBlock/codeLang.js
+    codecopy: https://msc-a.netlify.app/libs/codeBlock/codeCopy.js
+    codeshrink: https://msc-a.netlify.app/libs/codeBlock/codeShrink.js
 
 # The post featured images that needs to be displayed when there is no image.
 # 无文章特色图片时需要显示的文章特色图片.
