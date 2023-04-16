@@ -480,7 +480,7 @@ libs:
     jqcloud: https://cdn.bootcdn.net/ajax/libs/jqcloud/1.0.3/jqcloud.min.css
     tocbot: https://cdn.bootcdn.net/ajax/libs/tocbot/4.21.0/tocbot.min.css
     prism: https://cdn.bootcdn.net/ajax/libs/prism/9000.0.1/themes/prism.min.css
-    mermaid: /libs/mermaid/mermaid.min.css
+    mermaid: https://msc-a.netlify.app/libs/mermaid/mermaid.min.css
     fancybox: https://cdn.bootcdn.net/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css
     justifiedGallery: https://cdn.bootcdn.net/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.min.css
   js:
