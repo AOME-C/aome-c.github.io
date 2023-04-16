@@ -8,7 +8,7 @@
     line-height: 38px;
 }
 
-#reward .btn-floating:hover {
+#reward .btn-large:hover {
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2), 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
