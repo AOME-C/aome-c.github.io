@@ -94,8 +94,11 @@ body.DarkMode header .side-nav .menu-list a {
 body.DarkMode .mobile-menu-list a {
     color: rgba(255, 255, 255, 0.6) !important;
 }
-body.DarkMode font, span {
-    color: red
+body.DarkMode font {
+    color: red; !important;
+}
+body.DarkMode .mobile-menu-list span {
+    color: black;
 }
 body.DarkMode .bg-color {
     background-image:linear-gradient(to right, #3b3b3b 0, rgb(59 59 59) 100%);
