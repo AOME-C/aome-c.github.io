@@ -507,7 +507,7 @@ libs:
     gitalk: https://cdn.bootcdn.net/ajax/libs/gitalk/1.8.0/gitalk.min.js
     valine: https://unpkg.com/valine/dist/Valine.min.js # 若想保持最新版，请替换为 https://unpkg.com/valine/dist/Valine.min.js  默认为 /libs/valine/Valine.min.js
     minivaline: https://msc-a.netlify.app/libs/minivaline/MiniValine.js # latest
-    waline: https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js # 若想保持最新版，请替换为 https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js 默认为(1.5.2版本) /libs/valine/Valine.min.js
+    waline: https://cdn.bootcdn.net/ajax/libs/waline/2.14.9/waline.min.js # 若想保持最新版，请替换为 https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js 默认为(1.5.2版本) /libs/valine/Valine.min.js
     twikoo: https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js # 若想保持最新版，请替换为 https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js  默认为 /libs/twikoo/twikoo.all.min.js
     jqcloud: https://cdn.bootcdn.net/ajax/libs/jqcloud/1.0.3/jqcloud.min.js
     tocbot: https://cdn.bootcdn.net/ajax/libs/tocbot/4.21.0/tocbot.min.js
