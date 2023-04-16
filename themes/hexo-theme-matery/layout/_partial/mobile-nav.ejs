@@ -28,7 +28,7 @@ configRoot = (configRoot === null || configRoot === undefined || configRoot === 
 			<% } else { %>
 				<i class="fas fa-fw fa-link"></i>
 			<% } %>
-			<%- __(key) %>
+			<font><%- __(key) %></font>
 		</a>
           <% } else { %>
 		<a href="javascript:;">
@@ -37,7 +37,7 @@ configRoot = (configRoot === null || configRoot === undefined || configRoot === 
 			<% } else { %>
 				<i class="fas fa-fw fa-link"></i>
 			<% } %>
-			<%- __(key) %>
+			<font><%- __(key) %></font>
 			<span class="m-icon"><i class="fas fa-chevron-right"></i></span>
 		</a>
             <ul <%if(theme.navMenu&&theme.navMenu.bgColor){%> style="background: <%-theme.navMenu.bgColor%>;"<%}%> >

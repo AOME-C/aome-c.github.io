@@ -466,7 +466,7 @@ libs:
     mycss: https://msc-a.netlify.app/css/my.css
     post: https://msc-a.netlify.app/css/post.css
     reward: https://msc-a.netlify.app/css/reward.css
-    dark: https://msc-a.netlify.app/css/dark.css
+    dark: /css/dark.css
     indexcover: https://msc-a.netlify.app/css/indexcover.css
     gallery: https://msc-a.netlify.app/css/gallery.css
     fontAwesome: https://cdn.bootcdn.net/ajax/libs/font-awesome/6.4.0/css/all.min.css # V6.1.2 20220809
