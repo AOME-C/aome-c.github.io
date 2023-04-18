@@ -58,6 +58,7 @@
 
 
     <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://msc-a.netlify.app/css/loading.css">
 
 <meta name="generator" content="Hexo 6.3.0">
 <style>.github-emoji { position: relative; display: inline-block; width: 1.2em; min-height: 1.2em; overflow: hidden; vertical-align: top; color: transparent; }  .github-emoji > span { position: relative; z-index: 10; }  .github-emoji img, .github-emoji .fancybox { margin: 0 !important; padding: 0 !important; border: none !important; outline: none !important; text-decoration: none !important; user-select: none !important; cursor: auto !important; }  .github-emoji img { height: 1.2em !important; width: 1.2em !important; position: absolute !important; left: 50% !important; top: 50% !important; transform: translate(-50%, -50%) !important; user-select: none !important; cursor: auto !important; } .github-emoji-fallback { color: inherit; } .github-emoji-fallback img { opacity: 0 !important; }</style>
@@ -867,6 +868,37 @@ $(function () {
         <i class="fas fa-arrow-up"></i>
     </a>
 </div>
+
+	
+ <div id="loading">
+     <div class="loading-left-bg"></div>
+    <div class="loading-right-bg"></div>
+  <div class="spinner-box">
+    <div class="blue-orbit leo"></div>
+    <div class="green-orbit leo"></div>
+    <div class="red-orbit leo"></div>
+    <div class="white-orbit w1 leo"></div>
+    <div class="white-orbit w2 leo"></div>
+    <div class="white-orbit w3 leo"></div>
+  </div>
+  	<div class="text">
+	<p>加载中...<br>-欢迎访问MSC&AoMe互助联盟~</p>
+	</div>
+ </div>
+  <!-- 页面加载动画 -->
+<script>
+$(document).ready(
+function () {
+  document.body.style.overflow = 'auto';
+  document.getElementById('loading').classList.add("loaded")
+});
+$(document).ready(function(){
+function myfun() {
+document.getElementById("loading").style.display="none";
+}
+setTimeout(myfun,10);
+});
+</script>
 
 
     <script src="https://cdn.bootcdn.net/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
