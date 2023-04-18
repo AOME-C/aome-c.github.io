@@ -483,6 +483,7 @@ libs:
     mermaid: https://msc-a.netlify.app/libs/mermaid/mermaid.min.css
     fancybox: https://cdn.bootcdn.net/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css
     justifiedGallery: https://cdn.bootcdn.net/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.min.css
+    loading: https://msc-a.netlify.app/css/loading.css
   js:
     matery: https://msc-a.netlify.app/js/matery.js
     sc2tc: https://msc-a.netlify.app/js/tw_cn.js
@@ -734,3 +735,7 @@ mermaid: ## mermaid url https://github.com/knsv/mermaid
   version: "latest" # default v7.1.2
   options:  # find more api options from https://github.com/knsv/mermaid/blob/master/src/mermaidAPI.js
     #startOnload: true  // default true
+
+preloader:
+  enable: true
+  
