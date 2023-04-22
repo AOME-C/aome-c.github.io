@@ -2,7 +2,6 @@
 title: about
 date: 2023-03-27 18:23:38
 type: "about"
-layout: "about"
 ---
 ## 关于MSC&AoMe联合编辑部
 ##### 2023 年 4 月 18日

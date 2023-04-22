@@ -33,7 +33,7 @@ menu:
     icon: fas fa-address-book
     children:
       - name: MSC磁铁学生公社
-        url: https://mscmdd.github.io/www/
+        url: https://mscmdd.github.io/
       - name: AoMe互助公社
         url: https://aome-c.github.io/www/
   # 二级菜单写法如下
@@ -109,7 +109,7 @@ music:
   preload: 'auto'   # 预加载，可选值: 'none', 'metadata', 'auto'
   volume: 0.5       # 默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效
   listFolded: true  # 列表默认折叠
-  hideLrc: false     # 隐藏歌词
+  hideLrc: false    # 隐藏歌词
 
 # Whether to display the musics.
 # 单独的音乐页面.
@@ -653,7 +653,7 @@ banner:
 # 中文繁简转换开关
 # 显示在底部 footer 栏
 translate:
-  enable: false
+  enable: true
 
 #ICP备案信息尾部显示
 icp:
@@ -731,7 +731,7 @@ bbtime:
 # {% endmermaid %}
 # mermaid chart。 依赖hexo-tag-mermaid
 mermaid: ## mermaid url https://github.com/knsv/mermaid
-  enable: false  # default false
+  enable: true  # default false
   version: "latest" # default v7.1.2
   options:  # find more api options from https://github.com/knsv/mermaid/blob/master/src/mermaidAPI.js
     #startOnload: true  // default true
