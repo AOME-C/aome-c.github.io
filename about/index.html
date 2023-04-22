@@ -178,7 +178,7 @@
       
       <i class="fas fa-comments" style="zoom: 0.6;"></i>
       
-      <span>留言板</span>
+      <span>留言/公示板</span>
     </a>
     
   </li>
@@ -196,7 +196,7 @@
     <ul class="sub-nav menus_item_child ">
       
       <li>
-        <a target="_blank" rel="noopener" href="https://mscmdd.github.io/www/">
+        <a target="_blank" rel="noopener" href="https://mscmdd.github.io/">
           
           <span>MSC磁铁学生公社</span>
         </a>
@@ -339,7 +339,7 @@
 			
 			    <i class="fa-fw fas fa-comments"></i>
 			
-			<font>留言板</font>
+			<font>留言/公示板</font>
 		</a>
           
         </li>
@@ -357,7 +357,7 @@
               
                 <li>
 
-                  <a target="_blank" rel="noopener" href="https://mscmdd.github.io/www/ " style="margin-left:75px">
+                  <a target="_blank" rel="noopener" href="https://mscmdd.github.io/ " style="margin-left:75px">
 				  
 		          <span>MSC磁铁学生公社</span>
                   </a>
@@ -451,7 +451,7 @@
                     <div class="post-statis col l4 hide-on-med-and-down" data-aos="zoom-in-right">
                         
 <div class="statis">
-    <span class="count"><a href="/">11</a></span>
+    <span class="count"><a href="/">12</a></span>
     <span class="name">文章</span>
 </div>
 
@@ -481,7 +481,7 @@
                                 <div class="post-statis hide-on-large-only" data-aos="zoom-in-right">
                                     
 <div class="statis">
-    <span class="count"><a href="/">11</a></span>
+    <span class="count"><a href="/">12</a></span>
     <span class="name">文章</span>
 </div>
 
@@ -639,7 +639,7 @@
                 name: '文章篇数',
                 type: 'line',
                 color: ['#6772e5'],
-                data: [0,0,0,0,0,0,0,0,0,0,0,5,6],
+                data: [0,0,0,0,0,0,0,0,0,0,0,5,7],
                 markPoint: {
                     symbolSize: 45,
                     color: ['#fa755a','#3ecf8e','#82d3f4'],
@@ -681,7 +681,7 @@
                 type: 'pie',
                 radius: '50%',
                 color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
-                data: [{"name":"计算机","value":3},{"name":"公社事务","value":6},{"name":"学业","value":1},{"name":"生活","value":1}],
+                data: [{"name":"计算机","value":3},{"name":"公社事务","value":7},{"name":"学业","value":1},{"name":"生活","value":1}],
                 itemStyle: {
                     emphasis: {
                         shadowBlur: 10,
@@ -718,7 +718,7 @@
                 type: 'bar',
                 color: ['#82d3f4'],
                 barWidth : 18,
-                data: [7,7,2,1,1],
+                data: [8,8,2,1,1],
                 markPoint: {
                     symbolSize: 45,
                     data: [{
@@ -999,6 +999,8 @@
 			&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
 			|&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
 			|&nbsp;Comment powered by&nbsp;<a href="https://github.com/walinejs/waline" target="_blank">Waline</a>
+            
+                <span id="translate">|&nbsp;繁/简：</span><a id="translateLink" href="javascript:translatePage();">繁</a>
             
             <br>
             
@@ -1295,7 +1297,26 @@ setTimeout(myfun,500);
     <script src="https://msc-a.netlify.app/js/matery.js"></script>
 
     
+        <!-- <script src='https://unpkg.com/mermaid@latest/dist/mermaid.min.js'></script> -->
+        <script src='https://msc-a.netlify.app/libs/mermaid/mermaid.min.js'></script>
+        <script>
+          if (window.mermaid) {
+            mermaid.initialize({theme: 'forest'});
+          }
+        </script>
+    
 
+    
+        <script type="text/javascript" src="https://msc-a.netlify.app/js/tw_cn.js"></script>
+        <script type="text/javascript">
+          var defaultEncoding = 2; //网站编写字体是否繁体，1-繁体，2-简体
+          var translateDelay = 0; //延迟时间,若不在前, 要设定延迟翻译时间, 如100表示100ms,默认为0
+          var cookieDomain = "https://aome-c.github.io"; //Cookie地址, 一定要设定, 通常为你的网址
+          var msgToTraditionalChinese = "繁"; //此处可以更改为你想要显示的文字
+          var msgToSimplifiedChinese = "简"; //同上，但两处均不建议更改
+          var translateButtonId = "translateLink"; //默认互换id
+          translateInitilization();
+        </script>
     
     
     

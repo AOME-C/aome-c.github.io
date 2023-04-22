@@ -178,7 +178,7 @@
       
       <i class="fas fa-comments" style="zoom: 0.6;"></i>
       
-      <span>留言板</span>
+      <span>留言/公示板</span>
     </a>
     
   </li>
@@ -196,7 +196,7 @@
     <ul class="sub-nav menus_item_child ">
       
       <li>
-        <a target="_blank" rel="noopener" href="https://mscmdd.github.io/www/">
+        <a target="_blank" rel="noopener" href="https://mscmdd.github.io/">
           
           <span>MSC磁铁学生公社</span>
         </a>
@@ -339,7 +339,7 @@
 			
 			    <i class="fa-fw fas fa-comments"></i>
 			
-			<font>留言板</font>
+			<font>留言/公示板</font>
 		</a>
           
         </li>
@@ -357,7 +357,7 @@
               
                 <li>
 
-                  <a target="_blank" rel="noopener" href="https://mscmdd.github.io/www/ " style="margin-left:75px">
+                  <a target="_blank" rel="noopener" href="https://mscmdd.github.io/ " style="margin-left:75px">
 				  
 		          <span>MSC磁铁学生公社</span>
                   </a>
@@ -466,20 +466,20 @@
                 </a>
                 
                 
-                <a href="/tags/%E5%85%88%E8%A1%8C%E7%A4%BE%E5%91%98%EF%BC%88%E4%B8%AA%E4%BD%93%EF%BC%89/" title="先行社员（个体）: 7">
+                <a href="/tags/%E5%85%88%E8%A1%8C%E7%A4%BE%E5%91%98%EF%BC%88%E4%B8%AA%E4%BD%93%EF%BC%89/" title="先行社员（个体）: 8">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
                             data-tagname="先行社员（个体）" style="background-color: #D5F5E3;">先行社员（个体）
-                        <span class="tag-length">7</span>
+                        <span class="tag-length">8</span>
                     </span>
                 </a>
                 
                 
-                <a href="/tags/MSC%E7%A3%81%E9%93%81%E5%AD%A6%E7%94%9F%E5%85%AC%E7%A4%BE/" title="MSC磁铁学生公社: 7">
+                <a href="/tags/MSC%E7%A3%81%E9%93%81%E5%AD%A6%E7%94%9F%E5%85%AC%E7%A4%BE/" title="MSC磁铁学生公社: 8">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
                             data-tagname="MSC磁铁学生公社" style="background-color: #E8F8F5;">MSC磁铁学生公社
-                        <span class="tag-length">7</span>
+                        <span class="tag-length">8</span>
                     </span>
                 </a>
                 
@@ -516,7 +516,7 @@
 <script type="text/javascript">
     
 
-    $('#tag-wordcloud').jQCloud([{"text":"Web","weight":1,"link":"/tags/Web/"},{"text":"感言","weight":2,"link":"/tags/感言/"},{"text":"先行社员（个体）","weight":7,"link":"/tags/先行社员（个体）/"},{"text":"MSC磁铁学生公社","weight":7,"link":"/tags/MSC磁铁学生公社/"},{"text":"AoMe奥美互助公社","weight":1,"link":"/tags/AoMe奥美互助公社/"}], {
+    $('#tag-wordcloud').jQCloud([{"text":"Web","weight":1,"link":"/tags/Web/"},{"text":"感言","weight":2,"link":"/tags/感言/"},{"text":"先行社员（个体）","weight":8,"link":"/tags/先行社员（个体）/"},{"text":"MSC磁铁学生公社","weight":8,"link":"/tags/MSC磁铁学生公社/"},{"text":"AoMe奥美互助公社","weight":1,"link":"/tags/AoMe奥美互助公社/"}], {
         autoResize: true
     });
 </script>
@@ -592,6 +592,8 @@
 			&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
 			|&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
 			|&nbsp;Comment powered by&nbsp;<a href="https://github.com/walinejs/waline" target="_blank">Waline</a>
+            
+                <span id="translate">|&nbsp;繁/简：</span><a id="translateLink" href="javascript:translatePage();">繁</a>
             
             <br>
             
@@ -888,7 +890,26 @@ setTimeout(myfun,500);
     <script src="https://msc-a.netlify.app/js/matery.js"></script>
 
     
+        <!-- <script src='https://unpkg.com/mermaid@latest/dist/mermaid.min.js'></script> -->
+        <script src='https://msc-a.netlify.app/libs/mermaid/mermaid.min.js'></script>
+        <script>
+          if (window.mermaid) {
+            mermaid.initialize({theme: 'forest'});
+          }
+        </script>
+    
 
+    
+        <script type="text/javascript" src="https://msc-a.netlify.app/js/tw_cn.js"></script>
+        <script type="text/javascript">
+          var defaultEncoding = 2; //网站编写字体是否繁体，1-繁体，2-简体
+          var translateDelay = 0; //延迟时间,若不在前, 要设定延迟翻译时间, 如100表示100ms,默认为0
+          var cookieDomain = "https://aome-c.github.io"; //Cookie地址, 一定要设定, 通常为你的网址
+          var msgToTraditionalChinese = "繁"; //此处可以更改为你想要显示的文字
+          var msgToSimplifiedChinese = "简"; //同上，但两处均不建议更改
+          var translateButtonId = "translateLink"; //默认互换id
+          translateInitilization();
+        </script>
     
     
     
