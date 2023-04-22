@@ -13,8 +13,11 @@
                 <span id="year"><%- theme.time.year %></span>
             <% } %>
             <a href="<%- url_for('/about') %>" target="_blank"><%- config.author %></a>
-            |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
             |&nbsp;副站点&nbsp;<a href="https://mscmdd.github.io" target="_blank">M&A互助联盟</a>
+			</br>
+			&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
+			|&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
+			|&nbsp;Comment powered by&nbsp;<a href="https://github.com/walinejs/waline" target="_blank">Waline</a>
             <% if (theme.translate.enable) { %>
                 <span id="translate">|&nbsp;繁/简：</span><a id="translateLink" href="javascript:translatePage();">繁</a>
             <% } %>
