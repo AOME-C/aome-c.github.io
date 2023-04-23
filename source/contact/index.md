@@ -5,14 +5,24 @@ type: "contact"
 layout: "contact"
 ---
 # <font color=red><center>公示板</font>
+
 ### <center>磁铁学生公社职能分配：
-现任社长：梁﹡铭同志
-开发部部长：周﹡勋同志
-编辑部部长：李﹡竣同志、孙屹﹡同志
-宣传委员：待选举
-经济委员：待选举
-后勤委员：待选举
-活动委员：待选举
+
+#### <center>现任社长
+梁﹡铭同志
+#### <center>开发部部长
+周﹡勋同志
+#### <center>编辑部部长
+李﹡竣同志
+孙屹﹡同志
+#### <center>宣传委员
+待选举
+#### <center>经济委员
+待选举
+#### <center>后勤委员
+待选举
+#### <center>活动委员
+待选举
 
 # <font color=blue><center>留言板</font>
 ### <font color=red>该文章网站为CTXD磁铁公社与AoMe奥美互助公社共同构建！！</font>
