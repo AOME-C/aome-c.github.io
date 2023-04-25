@@ -24,13 +24,13 @@ next: 下一篇
 search: 搜索
 searchTip: 请输入搜索的关键字
 postTagTitle: 文章标签
-postCategoryTitle: 公社意识形态
-categoryRadarTitle: 公社意识形态雷达图
-categoryNumber: 文章意识形态分类数量
+postCategoryTitle: 文章分类
+categoryRadarTitle: 文章分类雷达图
+categoryNumber: 文章分类数量
 categoryEmptyTip: 你目前还没有对文章进行分类.
 postCharts: 文章统计图
 postPublishChart: 文章发布统计图
-categoriesChart: 意识形态饼图
+categoriesChart: 文章分类统计图
 top10TagsChart: TOP10 标签统计图
 postsNumberName: 文章篇数
 maximum: 最大值
@@ -75,8 +75,8 @@ siteTotalVisits: 总访问量
 siteTotalVisitors: 总访问人数
 Index: 首页
 Tags: 标签
-Categories: 意识形态
+Categories: 分类
 Archives: 归档
-About: 公社
+About: 关于
 Contact: 留言/公示板
-Friends: 公社外交
+Friends: 公社链接

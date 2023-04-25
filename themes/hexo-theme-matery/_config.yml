@@ -463,7 +463,7 @@ baiduPush: true
 libs:
   css:
     matery: https://msc-a.netlify.app/css/matery.css
-    mycss: /css/my.css
+    mycss: https://msc-a.netlify.app/css/my.css
     post: https://msc-a.netlify.app/css/post.css
     reward: https://msc-a.netlify.app/css/reward.css
     dark: https://msc-a.netlify.app/css/dark.css
