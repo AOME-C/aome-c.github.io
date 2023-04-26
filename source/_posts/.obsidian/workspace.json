@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc38361790f02213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "向“改革开放”学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "对于磁铁公社近期矛盾的看法.md",
+                "file": "向“改革开放”学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "对于磁铁公社近期矛盾的看法.md",
+                "file": "向“改革开放”学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "对于磁铁公社近期矛盾的看法.md"
+                "file": "向“改革开放”学习.md"
               }
             }
           }
@@ -146,20 +159,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "98eda721bd0189a1",
+  "active": "bc38361790f02213",
   "lastOpenFiles": [
-    "二高分部临时会议.md",
-    "对于磁铁公社近期矛盾的看法.md",
-    "new.md",
-    "hello-world.md",
-    "学业.md",
     "我们为何发展公社.md",
-    "论磁铁公社之性质.md",
-    "浅论磁铁公社十大关系.md",
-    "论公社五一劳动节活动一事.md",
     "生活.md",
     "浅谈关于公社生死存亡问题及更好发展问题的联系.md",
+    "浅论磁铁公社十大关系.md",
     "计算机-1.md",
+    "论磁铁公社之性质.md",
+    "论公社五一劳动节活动一事.md",
+    "向“改革开放”学习.md",
+    "对于磁铁公社近期矛盾的看法.md",
+    "学业.md",
+    "hello-world.md",
+    "new.md",
+    "二高分部临时会议.md",
     "666.md"
   ]
 }

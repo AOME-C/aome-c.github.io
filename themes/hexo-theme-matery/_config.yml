@@ -11,14 +11,17 @@ menu:
     url: /categories
     icon: fas fa-bookmark
     children:
-      - name: 公社事务
-        url: /categories/公社事务
-      - name: 计算姬
-        url: /categories/计算机
-      - name: 学业
-        url: /categories/学业
-      - name: 生活
-        url: /categories/生活
+      - name: 远视共产主义
+        url: /categories/远视共产主义
+      - name: 安那其共产主义
+        url: /categories/安那其共产主义
+      - name: 威社主义—务实派
+        url: /categories/威权社会主义—务实派
+      - name: 威社主义—理想派
+        url: /categories/威权社会主义—理想派
+      - name: 自由社会主义
+        url: /categories/自由社会主义
+
   Archives:
     url: /archives
     icon: fas fa-archive
@@ -36,6 +39,8 @@ menu:
         url: https://mscmdd.github.io/
       - name: AoMe互助公社
         url: https://aome-c.github.io/www/
+      - name: 中文马克思主义文库
+        url: https://www.marxists.org/
   # 二级菜单写法如下
   #Medias:
   #  icon: fas fa-list
