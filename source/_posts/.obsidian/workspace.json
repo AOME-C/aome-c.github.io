@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "向“改革开放”学习.md",
+                "file": "zhou-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zhou-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zhou-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zhou-1.md"
+              }
             }
           }
         ]
@@ -142,10 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "791b0e7fc11f6ee0",
+  "active": "bc38361790f02213",
   "lastOpenFiles": [
-    "团结就是李一亮~.md",
+    "new.md",
     "zhou-1.md",
+    "记录一次显微镜观察洋葱内表皮细胞的观察记录.md",
+    "团结就是李一亮~.md",
     "zhou-1/zhou-03.jpg",
     "zhou-1/zhou-02.jpg",
     "zhou-1/zhou-01.jpg",
@@ -155,7 +161,6 @@
     "hello-world.md",
     "生活.md",
     "浅谈关于公社生死存亡问题及更好发展问题的联系.md",
-    "记录一次显微镜观察洋葱内表皮细胞的观察记录.md",
     "浅论磁铁公社十大关系.md",
     "向“改革开放”学习.md",
     "我们为何发展公社.md",
@@ -168,7 +173,6 @@
     "磁铁学生公社-焦点树.md",
     "磁铁开发部(MDD)民主临时管制制度.md",
     "磁铁学生公社(MSC)临时约法.md",
-    "new.md",
     "aome.svg",
     "666.md"
   ]
