@@ -55,7 +55,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -89,6 +89,7 @@ markdown:
     - markdown-it-ins
     - markdown-it-sub
     - markdown-it-sup
+    - markdown-it-ruby
   anchors:
     level: 2
     collisionSuffix: 'v'
@@ -175,7 +176,6 @@ feed:
 tag_details:
   className:
   open: false
-
 
 spoiler:
   style: blur # 或者box
