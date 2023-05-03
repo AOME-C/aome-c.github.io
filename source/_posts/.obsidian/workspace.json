@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a85510a1f65fba9c",
+        "id": "25b24ff9d2b5b69f",
         "type": "tabs",
         "children": [
           {
-            "id": "bc38361790f02213",
+            "id": "8239c0c7f5640379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zhou-1.md",
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baa297bc4cef6fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zhou-1.md",
+                "file": "未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zhou-1.md",
+                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zhou-1.md"
+                "file": "未命名 1.md"
               }
             }
           }
@@ -146,17 +159,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bc38361790f02213",
+  "active": "baa297bc4cef6fca",
   "lastOpenFiles": [
+    "Pasted image 20230501111054.png",
+    "未命名.md",
+    "未命名 1.md",
+    "Pasted image 20230430215734.png",
+    "Pasted image 20230430215717.png",
+    "Pasted image 20230430215702.png",
+    "Pasted image 20230430215641.png",
+    "Pasted image 20230430215633.png",
+    "Pasted image 20230430215616.png",
+    "Pasted image 20230430215603.png",
+    "Pasted image 20230430215553.png",
+    "Pasted image 20230430215533.png",
+    "Pasted image 20230430215522.png",
     "new.md",
     "zhou-1.md",
     "记录一次显微镜观察洋葱内表皮细胞的观察记录.md",
     "团结就是李一亮~.md",
-    "zhou-1/zhou-03.jpg",
-    "zhou-1/zhou-02.jpg",
-    "zhou-1/zhou-01.jpg",
     "zhou-1",
-    "d2ede9e46f1eadf9eb1bc04e01ac330.jpg",
     "论磁铁公社之性质.md",
     "hello-world.md",
     "生活.md",
@@ -173,7 +195,6 @@
     "磁铁学生公社-焦点树.md",
     "磁铁开发部(MDD)民主临时管制制度.md",
     "磁铁学生公社(MSC)临时约法.md",
-    "aome.svg",
     "666.md"
   ]
 }
