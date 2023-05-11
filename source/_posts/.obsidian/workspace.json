@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "25b24ff9d2b5b69f",
+        "id": "9b818f16615f5316",
         "type": "tabs",
         "children": [
           {
-            "id": "8239c0c7f5640379",
+            "id": "31f4bac9a1d8ea81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baa297bc4cef6fca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,10 +138,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "baa297bc4cef6fca",
+  "active": "31f4bac9a1d8ea81",
   "lastOpenFiles": [
+    "README_CN.md",
+    "这个是文件的名称.md",
+    "学业.md",
+    "团结就是李一亮~.md",
     "Pasted image 20230501111054.png",
-    "未命名.md",
     "未命名 1.md",
     "Pasted image 20230430215734.png",
     "Pasted image 20230430215717.png",
@@ -173,11 +155,9 @@
     "Pasted image 20230430215603.png",
     "Pasted image 20230430215553.png",
     "Pasted image 20230430215533.png",
-    "Pasted image 20230430215522.png",
     "new.md",
     "zhou-1.md",
     "记录一次显微镜观察洋葱内表皮细胞的观察记录.md",
-    "团结就是李一亮~.md",
     "zhou-1",
     "论磁铁公社之性质.md",
     "hello-world.md",
@@ -187,7 +167,6 @@
     "向“改革开放”学习.md",
     "我们为何发展公社.md",
     "论公社五一劳动节活动一事.md",
-    "学业.md",
     "计算机-1.md",
     "二高分部临时会议.md",
     "对于磁铁公社近期矛盾的看法.md",
