@@ -404,7 +404,8 @@ waline:
   enable: true
   # Waline 服务端部署参考 https://waline.js.org/guide/server/intro.html 客户端和服务端版本需一致
   # 下面是一个例子，请替换成自己的服务端
-  serverURL: https://msc-a.dynv6.net:8365
+  serverURL: https://aome.giize.com
+  # https://msc-a.dynv6.net:8365
   avatar: 'mp' # Gravatar style : ''/mp/identicon/monsterid/wavatar/retro/hide
 
 changyan:
